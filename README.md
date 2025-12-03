@@ -1,5 +1,7 @@
-MAC OS <br /> 
-<br />
+Hubble Timescape UI
+===================
+<img width="1495" height="825" alt="image" src="https://github.com/user-attachments/assets/bd77e032-715c-46fe-9743-a6a0010793c5" />
+<br>
 
 What this script will do <br /> 
 ================================
@@ -28,7 +30,6 @@ Below is a list of the versions used  - full list here - https://helm.isovalent.
 - Hubble-timescape - 1.18.1<br>
 - Tetragon - 1.18.0<br>
 - Tetragon-policies - 1.18.0<br>
-<br>
 <br>
 
 Steps to install<br /> 
@@ -65,10 +66,6 @@ Below is a comment to identify the error message you will see : <br />
 "****************************************"<br />
 "THE ABOVE ERROR MESSAGE IS BECAUSE THE NODES HAVE NOT BEEN CREATED, AND THE POD FOR THE CERT IS WAITING TO BE ASSIGNED"<br />
 "****************************************"<br />
-<br />
-<br />
-<br />
-<img width="1486" height="824" alt="image" src="https://github.com/user-attachments/assets/e0b418f0-3cd7-4534-8e3f-af7ec8ba8947" />
 
 
 
