@@ -1,0 +1,12 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: tomcat
+  namespace: default
+spec:
+  template:
+    spec:
+      containers:
+      - name: tomcat
+        image: quay.io/johncilium/tomcat:latest
+      restartPolicy: OnFailure

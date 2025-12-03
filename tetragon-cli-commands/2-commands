@@ -1,0 +1,20 @@
+
+#"Show tracing policies held by the agent ds"
+tetra tracingpolicy list
+
+#"Show status of agent"
+tetra status
+
+#"get events"
+tetra getevents
+
+#"syscallentries"
+tetra syscallentries
+
+#"see tetragon model - THIS NEEDS THE HELM FLAG "
+#application model must be enabled with the --enable-application-model flag or the tetragon.enableApplicationModel Helm value
+tetra model show
+
+
+
+

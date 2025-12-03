@@ -1,0 +1,12 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: attacker-pod
+  namespace: default
+spec:
+  template:
+    spec:
+      containers:
+      - name: attacker-pod
+        image: quay.io/johncilium/tomcat:latest
+      restartPolicy: OnFailure
