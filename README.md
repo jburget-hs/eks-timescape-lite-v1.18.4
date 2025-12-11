@@ -63,9 +63,9 @@ to be created but this will not move to a running pod until the EKS nodes are cr
 <br />
 Below is a comment to identify the error message you will see : <br />
 <br />
-"****************************************"<br />
+"*****************************************"<br />
 "THE ABOVE ERROR MESSAGE IS BECAUSE THE NODES HAVE NOT BEEN CREATED, AND THE POD FOR THE CERT IS WAITING TO BE ASSIGNED"<br />
-"****************************************"<br />
+"*****************************************"<br />
 
 
 
