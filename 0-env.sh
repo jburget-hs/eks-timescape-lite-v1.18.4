@@ -1,4 +1,4 @@
 
-export CLUSTER_NAME="YOUR_CLUSTER_NAME"
+export CLUSTER_NAME="jb-eks-timescape-lite"
 export CLUSTER_ID="0"
-export REGION="YOUR_AWS_REGION"
+export REGION="us-east-2"
